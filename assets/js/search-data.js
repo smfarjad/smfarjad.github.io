@@ -418,12 +418,10 @@ ninja.data = [{
           section: "News",},{id: "news-received-best-full-paper-award-from-acm-at-the-2025-acm-southeast-conference",
           title: 'Received Best Full Paper Award from ACM at the 2025 ACM Southeast Conference....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-presented-our-work-on-secure-edge-computing-reference-architecture-at-us-army-engineer-research-and-development-center-erdc-vicksburg-ms-usa",
+          title: 'Presented our work on secure edge computing reference architecture at US Army Engineer...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
