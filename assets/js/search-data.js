@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -44,35 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-talks",
+          title: "talks",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/talks/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -440,18 +412,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-presented-our-paper-at-the-2025-acm-southeast-conference-cape-girardeau-mo-usa",
+          title: 'Presented our paper at the 2025 ACM Southeast Conference, Cape Girardeau, MO, USA....',
+          description: "",
+          section: "News",},{id: "news-received-best-full-paper-award-from-acm-at-the-2025-acm-southeast-conference",
+          title: 'Received Best Full Paper Award from ACM at the 2025 ACM Southeast Conference....',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -496,19 +468,51 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{
+            },},{id: "talks-bust-in-silhouette-exploiting-real-time-database-for-efficient-electrical-switching-34th-ieeep-all-pakistan-students-seminar-karachi-sindh-pakistan",
+          title: ':bust_in_silhouette: Exploiting Real-time Database for Efficient Electrical Switching. 34th IEEEP All Pakistan Students’...',
+          description: "",
+          section: "Talks",},{id: "talks-bust-in-silhouette-exploiting-real-time-database-for-efficient-electrical-switching-34th-multi-topic-international-symposium-karachi-sindh-pakistan",
+          title: ':bust_in_silhouette: Exploiting Real-time Database for Efficient Electrical Switching. 34th Multi-topic International Symposium, Karachi,...',
+          description: "",
+          section: "Talks",},{id: "talks-computer-cluster-analysis-and-statistical-modeling-a-unified-approach-for-packet-inspection-ieee-international-conference-on-cyber-warfare-and-security-islamabad-pakistan",
+          title: ':computer: Cluster Analysis and Statistical Modeling: A Unified Approach for Packet Inspection. IEEE...',
+          description: "",
+          section: "Talks",},{id: "talks-computer-daemonsec-a-framework-for-security-auditing-of-linux-daemons-nsf-i-corps-program-in-the-great-plains-region",
+          title: ':computer: DaemonSec: A Framework for Security Auditing of Linux Daemons. NSF I-Corps Program...',
+          description: "",
+          section: "Talks",},{id: "talks-bust-in-silhouette-secure-edge-computing-reference-architecture-for-data-driven-structural-health-monitoring-2025-acm-southeast-conference-cape-girardeau-mo-usa",
+          title: ':bust_in_silhouette: Secure Edge Computing Reference Architecture for Data-Driven Structural Health Monitoring. 2025 ACM...',
+          description: "",
+          section: "Talks",},{id: "talks-bust-in-silhouette-secure-edge-computing-reference-architecture-for-data-driven-structural-health-monitoring-us-army-engineer-research-and-development-center-erdc-vicksburg-ms-usa",
+          title: ':bust_in_silhouette: Secure Edge Computing Reference Architecture for Data-Driven Structural Health Monitoring. US Army...',
+          description: "",
+          section: "Talks",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%73%66%61%72%6A%61%64@%75%6E%6F%6D%61%68%61.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-gitlab',
+        title: 'GitLab',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://gitlab.com/smfarjad", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/smfarjad", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0008-9949-9011", "_blank");
         },
       },{
         id: 'social-rss',
@@ -522,14 +526,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=YOnSqkIAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
