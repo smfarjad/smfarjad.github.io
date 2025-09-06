@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year PhD student in Information Technology at the [University of Nebraska at Omaha](https://www.unomaha.edu/), working under the supervision of [Dr. Robin Gandhi](https://robinagandhi.github.io/). Before starting PhD, I completed my BE (Bachelor of Engineering) in Computer Systems Engineering from NED University of Engineering and Technology. My primary interest is in the security and privacy of edge computing coupled with machine learning. I am also passionate about Linux.
+I am a PhD student in Computing & Information Science at the [University of Nebraska at Omaha](https://www.unomaha.edu/), working under the supervision of [Dr. Robin Gandhi](https://robinagandhi.github.io/). Before starting PhD, I completed my BE (Bachelor of Engineering) in Computer Systems Engineering from NED University of Engineering and Technology. My primary interest is in the security and privacy of edge computing coupled with machine learning. I am also passionate about Linux.
 
 Besides research, I enjoy cooking, brewing coffee, exploring history and theology, strength training, running, and spending time in nature.

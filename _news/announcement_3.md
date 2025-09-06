@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented our [paper](https://dl.acm.org/doi/pdf/10.1145/3696673.3723074) at the 2025 ACM Southeast Conference, Cape Girardeau, MO, USA.
+Presented [our paper](https://dl.acm.org/doi/pdf/10.1145/3696673.3723074) at the 2025 ACM Southeast Conference, Cape Girardeau, MO, USA.
