@@ -148,11 +148,11 @@ ninja.data = [{
           window.open("mailto:%73%66%61%72%6A%61%64@%75%6E%6F%6D%61%68%61.%65%64%75", "_blank");
         },
       },{
-        id: 'social-gitlab',
-        title: 'GitLab',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://gitlab.com/smfarjad", "_blank");
+          window.open("https://github.com/smfarjad", "_blank");
         },
       },{
         id: 'social-linkedin',
