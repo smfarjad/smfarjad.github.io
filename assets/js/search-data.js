@@ -23,12 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-talks",
-          title: "talks",
+        },{id: "nav-presentations",
+          title: "presentations",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
+          },
+        },{id: "nav-service",
+          title: "service",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/service/";
           },
         },{id: "post-edgeops-benchmarking-ml-inference-at-edge",
         
