@@ -2,9 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sheikh Muhammad Farjad
     - name: Languages
       value: English, German
 
@@ -71,10 +69,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
+        - Best Full Paper Award
     - year: 2029
       items:
         - Max Planck Medal
