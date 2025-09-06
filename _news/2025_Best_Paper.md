@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received Best Full Paper Award from ACM at the 2025 ACM Southeast Conference.
+Received Best Full Paper Award from ACM at the 2025 ACM Southeast Conference. 🏆
