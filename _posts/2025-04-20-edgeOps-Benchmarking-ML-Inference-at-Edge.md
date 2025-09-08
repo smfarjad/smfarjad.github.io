@@ -116,7 +116,7 @@ It will result in one memory profile text file that will be containing memory us
 
 This blog provides a very brief overview of edgeOps, a tool for benchmarking machine learning (inference) operations at the edge. The development of edgeOps was motivated by challenges we experienced during another project, which focused on creating a secure edge computing reference architecture for structural health monitoring. edgeOps offers a scalable and easy-to-deploy solution that can be integrated into any edge computing project. However, we do not recommend using it in production systems or security-critical environments at this stage, as it is still in the early phases of development and requires further maturity.
 
-If you're interested in exploring edgeOps and the reference architecture project in more detail, we recommend checking out our [conference paper](https://arxiv.org/abs/2503.18857). If you face any issues or would like to provide feedback, please leave a comment here or connect with me via [email](mailto:sfarjad@unomaha.edu).
+If you're interested in exploring edgeOps and the reference architecture project in more detail, I recommend checking out our [conference paper](https://arxiv.org/abs/2503.18857). If you face any issues or would like to provide feedback, please leave a comment here or connect with me via [email](mailto:sfarjad@unomaha.edu).
 
 ---
 
