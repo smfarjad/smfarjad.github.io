@@ -6,11 +6,6 @@
 
 ## TO DO:
 
-### about:
-
-- Fix degree name
-- Fix fourth-year PhD Student
-
 ### talks:
 
 - Fix dates
