@@ -18,7 +18,7 @@ In this project, we aim to develop a cluster consisting of Kali Linux and Ubuntu
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/p1_mpi_1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="/assets/img/p1_mpi_1.pdf" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
