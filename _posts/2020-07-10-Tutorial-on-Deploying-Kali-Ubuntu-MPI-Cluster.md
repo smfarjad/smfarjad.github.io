@@ -16,11 +16,13 @@ tags:
 
 In this project, we aim to develop a cluster consisting of Kali Linux and Ubuntu. This brief tutorial is using Kali and Ubuntu, but any variant of Linux can be used with minimal change. It is also worth mentioning that the cluster implemented in this project consists of a base machine and a virtual machine. In the base machine, Kali Linux was installed as a base operating system. In the virtual machine, Ubuntu was installed. I opted for this environment for exhibiting an efficient way of dealing with the cluster computing paradigm while being on a single machine.
 
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/p1_mpi_1.pdf" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="/assets/img/p1_mpi_1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
 
 The steps mentioned in this tutorial can be followed for deploying the cluster in LAN environment also. It depends on the requirement of the user. For creating a virtual machine, Qemu/KVM was used in this tutorial but readers can also use VirtualBox or VMware.
 
@@ -37,6 +39,7 @@ Download the latest version of MPICH from [here](http://www.mpich.org/downloads/
         {% include figure.liquid loading="eager" path="/assets/img/p1_mpi_2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
 
 Un-compress and navigate to downloaded directory.
 
