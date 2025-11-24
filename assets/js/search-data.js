@@ -153,6 +153,12 @@ ninja.data = [{
           section: "Talks",},{id: "talks-bust-in-silhouette-secure-edge-computing-reference-architecture-for-data-driven-structural-health-monitoring-us-army-engineer-research-and-development-center-erdc-vicksburg-ms-usa",
           title: ':bust_in_silhouette: Secure Edge Computing Reference Architecture for Data-Driven Structural Health Monitoring. US Army...',
           description: "",
+          section: "Talks",},{id: "talks-bust-in-silhouette-zeki-a-containerized-pipeline-for-deep-learning-deployment-for-edge-based-structural-health-monitoring-12th-acm-international-conference-on-systems-for-energy-efficient-buildings-cities-and-transportation-buildsys-25-golden-co-usa",
+          title: ':bust_in_silhouette: Zeki: A Containerized Pipeline for Deep Learning Deployment for Edge-based Structural Health...',
+          description: "",
+          section: "Talks",},{id: "talks-bust-in-silhouette-towards-secure-edge-ai-for-structural-health-monitoring-phd-forum-12th-acm-international-conference-on-systems-for-energy-efficient-buildings-cities-and-transportation-buildsys-25-golden-co-usa",
+          title: ':bust_in_silhouette: Towards Secure Edge AI for Structural Health Monitoring (PhD Forum). 12th ACM...',
+          description: "",
           section: "Talks",},{
         id: 'social-email',
         title: 'email',
