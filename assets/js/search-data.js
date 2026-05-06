@@ -162,6 +162,9 @@ ninja.data = [{
           section: "Talks",},{id: "talks-bust-in-silhouette-towards-secure-edge-ai-for-structural-health-monitoring-phd-forum-12th-acm-international-conference-on-systems-for-energy-efficient-buildings-cities-and-transportation-buildsys-25-golden-co-usa",
           title: ':bust_in_silhouette: Towards Secure Edge AI for Structural Health Monitoring (PhD Forum). 12th ACM...',
           description: "",
+          section: "Talks",},{id: "talks-bust-in-silhouette-practice-informed-pedagogy-for-linux-security-perspectives-on-ml-driven-solutions-for-daemon-security-2026-acm-southeast-conference-troy-al-usa",
+          title: ':bust_in_silhouette: Practice-Informed Pedagogy for Linux Security: Perspectives on ML-Driven Solutions for Daemon Security....',
+          description: "",
           section: "Talks",},{
         id: 'social-email',
         title: 'email',
