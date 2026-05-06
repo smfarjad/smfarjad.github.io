@@ -19,4 +19,4 @@ I have contributed to academic peer review, artifact evaluation, and, proudly, c
 
 ### Volunteer
 - **Siena Francis House** (homeless shelter)
-- **Akhuwat Foundation** (non-profit education, education)
+- **Akhuwat Foundation** (non-profit organization, education)
