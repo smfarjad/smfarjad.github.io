@@ -14,6 +14,7 @@ I have contributed to academic peer review, artifact evaluation, and, proudly, c
 - **ACM SIGPLAN ICFP:** 2026
 
 ##### External Reviewer
+- **ACM SIGCSE Virtual:** 2026
 - **ACM SIGCITE:** 2025
 - **ACM Collective Intelligence:** 2025
 - **IEEE GLOBECOM:** 2022
