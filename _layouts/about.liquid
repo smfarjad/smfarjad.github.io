@@ -40,6 +40,7 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+  {% comment %}
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
@@ -47,7 +48,21 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
+  {% endcomment %}
 
+    <!-- News -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2>
+        news
+        <span style="color: grey; font-size: 0.7em; font-weight: normal;">
+          (<a href="{{ '/news/' | relative_url }}">archive →</a>)
+        </span>
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+
+
+{% comment %}
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
@@ -55,7 +70,19 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
-  
+{% endcomment %}
+
+    <!-- Latest posts -->
+    {% if page.latest_posts and page.latest_posts.enabled %}
+      <h2>
+        latest posts
+        <span style="color: grey; font-size: 0.7em; font-weight: normal;">
+          (<a href="{{ '/blog/' | relative_url }}">view all →</a>)
+        </span>
+      </h2>
+      {% include latest_posts.liquid %}
+    {% endif %}
+
 {% comment %}
     <!-- Selected papers -->
     {% if page.selected_papers %}
