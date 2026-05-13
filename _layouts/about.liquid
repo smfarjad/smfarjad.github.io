@@ -54,8 +54,8 @@ layout: default
     {% if page.announcements and page.announcements.enabled %}
       <h2>
         news
-        <span style="color: grey; font-size: 0.7em; font-weight: normal;">
-          (<a href="{{ '/news/' | relative_url }}">archive →</a>)
+        <span style="color: grey; font-size: 0.7em;">
+          (<a href="{{ '/news/' | relative_url }}">archive >></a>)
         </span>
       </h2>
       {% include news.liquid limit=true %}
@@ -76,8 +76,8 @@ layout: default
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
         latest posts
-        <span style="color: grey; font-size: 0.7em; font-weight: normal;">
-          (<a href="{{ '/blog/' | relative_url }}">view all →</a>)
+        <span style="color: grey; font-size: 0.7em;">
+          (<a href="{{ '/blog/' | relative_url }}">view all ↗</a>)
         </span>
       </h2>
       {% include latest_posts.liquid %}
@@ -99,7 +99,7 @@ layout: default
     <h2>
       selected publications
       <span style="color: grey; font-size: 0.65em;">
-        (<a href="{{ '/publications/' | relative_url }}">full list →</a>)
+        (<a href="{{ '/publications/' | relative_url }}">full list ↗</a>)
       </span>
     </h2>
     {% include selected_papers.liquid %}
