@@ -10,11 +10,6 @@
 
 - Fix dates
 
-### CV:
-
-- Work on CV
-- Put navidation to true
-
 ### projects:
 
 - Work on Projects
