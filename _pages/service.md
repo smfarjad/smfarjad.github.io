@@ -11,7 +11,6 @@ I have contributed to academic peer review, artifact evaluation, and, proudly, c
 ##### Artifact Evaluation Committee
 - **EuroSys:** 2026
 - **MLSys:** 2026
-- **ACM SIGPLAN ICFP:** 2026
 
 ##### External Reviewer
 - **ACM SIGCSE Virtual:** 2026
