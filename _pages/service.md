@@ -9,6 +9,8 @@ permalink: /service/
 I have contributed to academic peer review, artifact evaluation, and, proudly, community service through the following venues and organizations.
 
 ##### Artifact Evaluation Committee
+- **NDSS:** 2027
+- **ACM CCS:** 2026
 - **EuroSys:** 2026
 - **MLSys:** 2026
 
