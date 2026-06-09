@@ -13,7 +13,7 @@
 ### projects:
 
 - Work on Projects
-- Put navigation to true
+- Put navigation to true (done?)
 
 ## License
 
