@@ -11,6 +11,7 @@ I have contributed to academic peer review, artifact evaluation, and, proudly, c
 ##### Artifact Evaluation Committee
 - **NDSS:** 2027
 - **ACM CCS:** 2026
+- **SOSP:** 2026
 - **EuroSys:** 2026
 - **MLSys:** 2026
 
