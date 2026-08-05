@@ -17,7 +17,7 @@ I have contributed to academic peer review, artifact evaluation, and, proudly, c
 
 ##### External Reviewer
 - **ACM SIGCSE Technical Symposium (PC Member):** 2027
-- **Array (Journal – Invited Reviewer):** 2026 | [ScienceDirect](https://www.sciencedirect.com/journal/array)
+- **Array (Journal – Invited Reviewer):** 2026 ([ScienceDirect](https://www.sciencedirect.com/journal/array))
 - **ACM SIGCSE Virtual (PC Member):** 2026
 - **ACM SIGCITE:** 2025
 - **ACM Collective Intelligence:** 2025
