@@ -162,6 +162,9 @@ ninja.data = [{
           section: "Talks",},{id: "talks-computer-daemonsec-a-framework-for-security-auditing-of-linux-daemons-nsf-i-corps-program-in-the-great-plains-region",
           title: ':computer: DaemonSec: A Framework for Security Auditing of Linux Daemons. NSF I-Corps Program...',
           description: "",
+          section: "Talks",},{id: "talks-bust-in-silhouette-edgeops-a-testbed-for-evaluating-ml-operations-at-the-edge-quick-share-3mt-2024-c-bytes-research-showcase-and-student-competition-omaha-ne-usa",
+          title: ':bust_in_silhouette: EdgeOps: A Testbed for Evaluating ML Operations at the Edge. Quick-Share (3MT),...',
+          description: "",
           section: "Talks",},{id: "talks-bust-in-silhouette-secure-edge-computing-reference-architecture-for-data-driven-structural-health-monitoring-2025-acm-southeast-conference-cape-girardeau-mo-usa",
           title: ':bust_in_silhouette: Secure Edge Computing Reference Architecture for Data-Driven Structural Health Monitoring. 2025 ACM...',
           description: "",
@@ -180,7 +183,7 @@ ninja.data = [{
           section: "Talks",},{id: "talks-bust-in-silhouette-practice-informed-pedagogy-for-linux-security-perspectives-on-ml-driven-solutions-for-daemon-security-2026-acm-southeast-conference-troy-al-usa",
           title: ':bust_in_silhouette: Practice-Informed Pedagogy for Linux Security: Perspectives on ML-Driven Solutions for Daemon Security....',
           description: "",
-          section: "Talks",},{id: "talks-bust-in-silhouette-hide-and-seek-with-ai-can-a-device-give-away-the-model-inside-quick-share-3mt-competition-2026-c-bytes-research-showcase-and-student-competition-omaha-ne-usa",
+          section: "Talks",},{id: "talks-bust-in-silhouette-hide-and-seek-with-ai-can-a-device-give-away-the-model-inside-quick-share-3mt-2026-c-bytes-research-showcase-and-student-competition-omaha-ne-usa",
           title: ':bust_in_silhouette: Hide and Seek with AI: Can a Device Give Away the Model...',
           description: "",
           section: "Talks",},{
