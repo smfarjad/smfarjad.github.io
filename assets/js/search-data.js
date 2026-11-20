@@ -180,6 +180,9 @@ ninja.data = [{
           section: "Talks",},{id: "talks-bust-in-silhouette-practice-informed-pedagogy-for-linux-security-perspectives-on-ml-driven-solutions-for-daemon-security-2026-acm-southeast-conference-troy-al-usa",
           title: ':bust_in_silhouette: Practice-Informed Pedagogy for Linux Security: Perspectives on ML-Driven Solutions for Daemon Security....',
           description: "",
+          section: "Talks",},{id: "talks-bust-in-silhouette-hide-and-seek-with-ai-can-a-device-give-away-the-model-inside-quick-share-3mt-2026-c-bytes-research-showcase-and-student-competition-omaha-ne-usa",
+          title: ':bust_in_silhouette: Hide and Seek with AI: Can a Device Give Away the Model...',
+          description: "",
           section: "Talks",},{
         id: 'social-email',
         title: 'email',
