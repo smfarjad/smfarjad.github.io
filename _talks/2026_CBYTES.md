@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-:bust_in_silhouette: Hide and Seek with AI: Can a Device Give Away the Model Inside? Quick-Share (3MT) Competition, 2026 C-BYTES Research Showcase and Student Competition, Omaha, NE, USA. 🏆
+:bust_in_silhouette: Hide and Seek with AI: Can a Device Give Away the Model Inside? Quick-Share (3MT), 2026 C-BYTES Research Showcase and Student Competition, Omaha, NE, USA. 🏆
