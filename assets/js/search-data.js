@@ -102,7 +102,7 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-the-graduate-research-and-creative-activity-graca-grant-5-000-from-the-office-of-research-and-creative-activity-university-of-nebraska-at-omaha",
           title: 'Awarded the Graduate Research and Creative Activity (GRACA) Grant ($5,000) from the Office...',
           description: "",
-          section: "News",},{id: "news-received-two-honorable-mention-awards-at-the-2026-c-bytes-research-showcase-and-student-competition-one-in-the-quick-share-3mt-competition-and-one-in-the-poster-bytes-competition-for-my-poster",
+          section: "News",},{id: "news-received-two-honorable-mention-awards-at-the-2026-c-bytes-research-showcase-and-student-competition-one-in-the-quick-share-3mt-competition-for-my-presentation-and-one-in-the-poster-bytes-competition-for-my-poster",
           title: 'Received two Honorable Mention awards at the 2026 C-BYTES Research Showcase and Student...',
           description: "",
           section: "News",},{id: "projects-project-1",
